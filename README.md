@@ -13,4 +13,4 @@ The news app - iOS app written in Swift.
 - git clone https://github.com/Diiiean/NewsApp.git
 - cd NewsApp
 - pod install (requires CocoaPods)
-- Open NewsApp.xcworkspace in Xcode 12.0 or higher.
+- Open NewsApp.xcworkspace in Xcode.
